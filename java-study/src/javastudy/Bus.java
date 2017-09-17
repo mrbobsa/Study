@@ -3,6 +3,6 @@ package javastudy;
 public class Bus extends Car2 {
 	public void run() {
 //		super.run();
-		System.out.println("Busì˜ run ë©”ì†Œë“œ ");
+		System.out.println("BusÀÇ run ¸Ş¼Òµå ");
 	}
 }
