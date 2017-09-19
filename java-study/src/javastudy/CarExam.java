@@ -6,10 +6,10 @@ public class CarExam {
 		Car c1 = new Car();
 		Car c2 = new Car();
 		
-		c1.name = "¼Ò¹æÂ÷";
+		c1.name = "ï¿½Ò¹ï¿½ï¿½ï¿½";
 		c1.number = 1234;
 	
-		c2.name = "±¸±ÞÂ÷";
+		c2.name = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
 		c2.number = 1111;
 		
 		System.out.println(c1.name);

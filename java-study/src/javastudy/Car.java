@@ -1,7 +1,11 @@
 package javastudy;
 
 public class Car {
-	//Å¸ÀÔ ÇÊµå¸í
+	//íƒ€ìž…í•„ë“œëª…
 	String name;
 	int number;
+	
+	public Car(String name) {
+		this.name = name;
+	}
 }
