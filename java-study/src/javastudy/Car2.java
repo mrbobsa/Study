@@ -2,7 +2,7 @@ package javastudy;
 
 public class Car2 {
 	public void run () {
-		System.out.println("Car2ì˜ run ë©”ì†Œë“œ");
+		System.out.println("Car2ÀÇ run ¸Ş¼Òµå");
 	}
 
 }
